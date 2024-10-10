@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="imgDisplay" HorizontalAlignment="Left" Height="146" Margin="61,63,0,0" VerticalAlignment="Top" Width="157"/>
+        <Button Content="Lenna" HorizontalAlignment="Left" Margin="22,342,0,0" VerticalAlignment="Top" Click="Button_Click" Width="136" Height="33"/>
+        <Image x:Name="imgDisplay2" HorizontalAlignment="Left" Height="146" Margin="290,68,0,0" VerticalAlignment="Top" Width="157"/>
+        <Button Content="Girasol" HorizontalAlignment="Left" Margin="181,341,0,0" VerticalAlignment="Top" Click="Button_Click_1" Width="136" Height="33"/>
+        <Slider x:Name="sldMezcla" 
+        HorizontalAlignment="Left" 
+        Margin="346,301,0,0" 
+        VerticalAlignment="Top" 
+        Width="136" 
+        Maximum="100" 
+        Minimum="0" />
+
+        <Image x:Name="imgDisplay3" HorizontalAlignment="Left" Height="75" Margin="539,105,0,0" VerticalAlignment="Top" Width="78"/>
+        <Button Content="Mezcla" HorizontalAlignment="Left" Margin="347,345,0,0" VerticalAlignment="Top" Height="34" Width="129" Click="Button_Click_2"/>
+        <Button x:Name="btnDuplicarTamanio" Content="+" HorizontalAlignment="Left" Margin="22,288,0,0" VerticalAlignment="Top" Height="34" Width="129" Click="btnDuplicarTamanio_Click"/>
+        <Button x:Name="btnDividir" Content="-" HorizontalAlignment="Left" Margin="171,290,0,0" VerticalAlignment="Top" Height="34" Width="129" Click="btnDividir_Click" />
+        <Button x:Name="btnInvertirVertical" Content="Vertical" HorizontalAlignment="Left" Margin="520,345,0,0" VerticalAlignment="Top" Height="34" Width="129" Click="btnInvertirVertical_Click" />
+        <Button x:Name="btnInvertirHorizontal" Content="Horizontal" HorizontalAlignment="Left" Margin="517,296,0,0" VerticalAlignment="Top" Height="34" Width="129" Click="btnInvertirHorizontal_Click"/>
+
+    </Grid>
+</Window>
