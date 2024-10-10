@@ -1,0 +1,20 @@
+﻿<Window x:Class="Labeling.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Labeling"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="10">
+                <Button Name="btnLoadImage" Content="Load Image" Click="BtnLoadImage_Click" Margin="5"/>
+                <Button Name="btnLabelWithoutAForge" Content="Label Without AForge" Click="BtnLabelWithoutAForge_Click" Margin="5"/>
+                <Button Name="btnLabelWithAForge" Content="Label With AForge" Click="BtnLabelWithAForge_Click" Margin="5"/>
+            </StackPanel>
+            <Image Name="img_display" Stretch="Uniform" Margin="10"/>
+            <TextBlock Name="txtObjectCount" Margin="10" FontSize="16"/>
+        </DockPanel>
+    </Grid>
+</Window>

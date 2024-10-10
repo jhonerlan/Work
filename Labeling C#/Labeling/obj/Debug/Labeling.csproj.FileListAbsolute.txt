@@ -1,0 +1,85 @@
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\Labeling.exe.config
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\Labeling.exe
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\Labeling.pdb
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Controls.dll
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.dll
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Imaging.dll
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Math.dll
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Video.dll
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.xml
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Controls.xml
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Imaging.xml
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Math.xml
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Video.xml
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling.csproj.AssemblyReference.cache
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\MainWindow.g.cs
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\App.g.cs
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling_MarkupCompile.cache
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling_MarkupCompile.lref
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\MainWindow.baml
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling.g.resources
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling.Properties.Resources.resources
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling.csproj.GenerateResource.cache
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling.csproj.CoreCompileInputs.cache
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling.csproj.Up2Date
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling.exe
+C:\Users\YTZEL\Universidad\PDI\Labeling\Labeling\obj\Debug\Labeling.pdb
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\Labeling.exe.config
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\Labeling.exe
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\Labeling.pdb
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Controls.dll
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.dll
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Imaging.dll
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Math.dll
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Video.DirectShow.dll
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Video.dll
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.xml
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Controls.xml
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Imaging.xml
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Math.xml
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Video.xml
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\bin\Debug\AForge.Video.DirectShow.xml
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling.csproj.AssemblyReference.cache
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\MainWindow.g.cs
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\App.g.cs
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling_MarkupCompile.cache
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling_MarkupCompile.lref
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\MainWindow.baml
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling.g.resources
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling.Properties.Resources.resources
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling.csproj.GenerateResource.cache
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling.csproj.CoreCompileInputs.cache
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling.csproj.CopyComplete
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling.exe
+D:\Trabajos de la U\Quinto Semestre\Procesamiento Digital de Imagenes\Labeling\Labeling\obj\Debug\Labeling.pdb
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\Labeling.exe.config
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\Labeling.exe
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\Labeling.pdb
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Controls.dll
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.dll
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Imaging.dll
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Math.dll
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Video.dll
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.xml
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Controls.xml
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Imaging.xml
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Math.xml
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Video.xml
+C:\Users\erlan\Desktop\Labeling\Labeling\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling.csproj.AssemblyReference.cache
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling.csproj.SuggestedBindingRedirects.cache
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\MainWindow.g.cs
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\App.g.cs
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling_MarkupCompile.cache
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling_MarkupCompile.lref
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\MainWindow.baml
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling.g.resources
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling.Properties.Resources.resources
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling.csproj.GenerateResource.cache
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling.csproj.CoreCompileInputs.cache
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling.csproj.CopyComplete
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling.exe
+C:\Users\erlan\Desktop\Labeling\Labeling\obj\Debug\Labeling.pdb
